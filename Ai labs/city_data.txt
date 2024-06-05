@@ -1,0 +1,3 @@
+City = karachi,Population = 20 million,Mayor = murtaza wahab
+City = lahore,Population = 10 million,Mayor = none
+City = peshawer,Population = 5 million,Mayor = ahmed
